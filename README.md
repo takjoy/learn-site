@@ -1,6 +1,5 @@
 # learn-site
-فثسف
-<p align='right' dir='rtl'>  HTML, CSS, javascript, Bootstrap آموزش ساخت سایت با کمک</p>test
+<p align='right' dir='rtl'> آموزش ساخت سایت با کمک HTML, CSS, javascript, Bootstrap</p>
 
 <p align='right' dir='rtl'>  HTML, CSS, javascript, Bootstrap آموزش ساخت سایت با کمک</p>
 
