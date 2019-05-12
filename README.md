@@ -1,6 +1,17 @@
 # learn-site
-<p align='right' dir='rtl'> آموزش ساخت سایت با کمک HTML, CSS, javascript, Bootstrap</p>
+<h2 align='right' dir='rtl'> آموزش ساخت سایت با کمک HTML, CSS, javascript, Bootstrap</h2>
 
-<p align='right' dir='rtl'>  HTML, CSS, javascript, Bootstrap آموزش ساخت سایت با کمک</p>
+**<p align='right' dir='rtl'>مفاهیم اولیه</p>**
 
-<p align='right' dir='rtl'>  HTML, CSS, javascript, Bootstrap آموزش ساخت سایت با کمک</p>
+<p align='right' dir='rtl'>  سرور چیست؟</p>
+<p align='right' dir='rtl'>  هر کامپیوتری که به درخواست‌های آنلاین پاسخ دهد، نقش سرور را دارد.</p>
+<br/>
+<p align='right' dir='rtl'>  سرور مجازی چیست؟</p>
+<p align='right' dir='rtl'> سرور حقیقی را با کمک نرم‌افزار  بصورت مجزا تکه‌تکه می‌کنند و به هر تکه یک سرور مجازی می‌گویند. </p>
+<br/>
+<p align='right' dir='rtl'>  هاست چیست؟</p>
+<p align='right' dir='rtl'>  سرورهای مجازی یا حقیقی را به تکه‌های خیلی کوچکی تقسیم می‌کنند و نرم‌افزارهای مشخص محدود کننده غیرقابل حذف و اضافه شدن به آن اضافه می‌کنند که به این تکه‌ها ، هاست می‌گویند. البته  در خود سرورهای مجازی و حقیقی هم که نرم‌افزارهای مشخص نصب کنید هم، نتیجه هاست میشه.</p>
+</br>
+<br/>
+<kbd/>
+d
